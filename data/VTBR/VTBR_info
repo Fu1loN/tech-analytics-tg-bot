@@ -1,0 +1,5 @@
+{
+    "last_update_data": "2025-06-15",
+    "last_update_analytics": "2025-06-15",
+    "analytics": "EMA(5,) stonks True with chance 0.6363636363636364\nEMA(35,) stonks True with chance 0.8\nопережающий макд EMA(48,)(MACD(EMA(35,), EMA(5,))) stonks False with chance 0.5\nMACD(EMA(35,), EMA(5,)) stonks\nEMA(5,) signal!!!!!"
+}

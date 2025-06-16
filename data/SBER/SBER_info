@@ -1,0 +1,5 @@
+{
+    "last_update_data": "2025-06-15",
+    "last_update_analytics": "2025-06-15",
+    "analytics": "EMA(20,) stonks True with chance 0.6956521739130435\nEMA(33,) stonks True with chance 0.8235294117647058\nопережающий макд EMA(48,)(MACD(EMA(33,), EMA(20,))) stonks True with chance 1.0\nMACD(EMA(33,), EMA(20,)) stonks"
+}
